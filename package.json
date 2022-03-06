@@ -1,0 +1,34 @@
+{
+  "name": "@dwlib/base32",
+  "version": "1.0.0",
+  "description": "Base32",
+  "main": "lib/index.js",
+  "exports": {
+    "require": "./lib/index.js",
+    "import": "./lib/index.mjs"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwlib-js/base32.git"
+  },
+  "keywords": [
+    "base32",
+    "encoding",
+    "decoding"
+  ],
+  "author": "Pavel Wolf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwlib-js/base32/issues"
+  },
+  "homepage": "https://github.com/dwlib-js/base32#readme",
+  "dependencies": {
+    "@dwlib/abstract": "^1.0.2",
+    "@dwlib/primordials": "^1.0.2",
+    "@dwlib/utf8": "^1.0.3"
+  }
+}
