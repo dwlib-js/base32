@@ -1,6 +1,6 @@
 {
   "name": "@dwlib/base32",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Base32",
   "main": "lib/index.js",
   "exports": {
